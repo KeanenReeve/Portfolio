@@ -13,7 +13,7 @@ function Contact() {
         </p>
 
         <p className="mt-4 text-xl">
-          📱 +2776 454 8217
+          📱 +27 76 454 8217
         </p>
 
         <p className="mt-4 text-xl">
