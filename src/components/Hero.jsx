@@ -1,3 +1,4 @@
+import keanenImage from "../assets/keanen.jpg";
 function Hero() {
   return (
     <section className="min-h-screen bg-slate-900 text-white flex items-center justify-center px-8">
@@ -61,10 +62,10 @@ function Hero() {
         <div className="flex justify-center">
 
           <img
-            src="/images/keanen.jpg"
-            alt="Keanen Reeve"
-            className="w-96 rounded-3xl shadow-2xl"
-          />
+  src={keanenImage}
+  alt="Keanen Reeve"
+  className="w-96 rounded-3xl shadow-2xl"
+/>
 
         </div>
 
