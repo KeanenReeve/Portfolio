@@ -29,7 +29,7 @@ function Hero() {
           <div className="flex gap-4 mt-10">
 
             <a
-              href="/Keanen-Reeve-CV.pdf"
+              href="/Portfolio/Keanen-Reeve-CV.pdf"
               target="_blank"
               className="bg-cyan-400 text-slate-900 px-6 py-3 rounded-lg font-semibold hover:bg-cyan-300 transition"
             >
